@@ -1,6 +1,5 @@
 .content {
-  max-width: 1280px;
-  height: 720px;
-  border: 1px solid red;
-  background-image: url(/images/background.jpg);
+  width: 100%;
+  background-image: url(/images/back-long.svg);
+  background-size: cover;
 }

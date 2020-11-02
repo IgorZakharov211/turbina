@@ -1,0 +1,19 @@
+.header__link{
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  color: #fff;
+  max-width: 100%;
+  text-decoration: none;
+  border: 2px solid #fff;
+  padding: 8px 20px 10px;
+  margin-top: 10px;
+  border-radius: 30px;
+<<<<<<< HEAD:common.blocks/content/content__link.css
+}
+=======
+  z-index: 3;
+}
+>>>>>>> f5248e8cb602edf801857a7cee2bac8b8157638f:common.blocks/header/__link/header__link.css
