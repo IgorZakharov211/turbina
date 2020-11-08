@@ -1,4 +1,5 @@
-.header__box{
+.header__box {
   display: flex;
   flex-direction: column;
+  align-items: flex-end;
 }
