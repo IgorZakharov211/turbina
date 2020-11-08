@@ -1,0 +1,6 @@
+.player__title-box{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-grow: 1;
+}

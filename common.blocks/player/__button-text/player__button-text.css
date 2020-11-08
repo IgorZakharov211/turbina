@@ -1,0 +1,16 @@
+.player__button-text{
+  border: 2px solid #FFFFFF;
+  box-sizing: border-box;
+  border-radius: 30px;
+  color: white;
+  background-color: rgba(0, 0, 0, .0);
+  font-size: 16px;
+  line-height: 1.19;
+  cursor: pointer;
+  margin-right: 29px;
+}
+
+.player__button-text:hover{
+  transition: 0.7s;
+  opacity: 0.7;
+}

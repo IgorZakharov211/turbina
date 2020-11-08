@@ -1,0 +1,15 @@
+.player__button-play{
+  background-image: url('../../../images/button-play.svg');
+  background-color: rgba(0, 0, 0, .0);
+  border: none;
+  height: 20px;
+  width: 16px;
+  margin-left: 25px;
+  cursor: pointer;
+}
+
+.player__button-play:hover{
+  transition: 0.7s;
+  opacity: 0.7;
+}
+

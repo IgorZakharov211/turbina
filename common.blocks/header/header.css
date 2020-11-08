@@ -1,8 +1,6 @@
 .header{
+  position: relative;
   display: flex;
   justify-content: space-between;
-  height: 100vh;
-  background-image: url(/images/back.svg);
-  background-size: cover;
   z-index: 2;
 }
